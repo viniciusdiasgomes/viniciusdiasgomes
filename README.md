@@ -4,6 +4,11 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de aprender e cr
 
 Aqui você encontrará projetos que desenvolvo tanto para aprendizado quanto para ajudar outras pessoas. Fique à vontade para explorar, sugerir melhorias ou colaborar! 🚀  
 
+#MEUS CONHECIMENTOS
+
+•  HTML | CSS | JavaScript | TypeScript | Python | React | Git | GitHub 
+•  Node.js | SQL | Oracle | Frontend | Backend | Full-Stack | English, Portuguese  
+
 ## Vamos nos conectar?  
 - [LinkedIn](https://www.linkedin.com/in/viniciusdiasgomes)  
 - [E-mail](mailto:seuemail@exemplo.com)  
