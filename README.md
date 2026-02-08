@@ -1,4 +1,4 @@
-# Olá, eu sou Vinícius Dias Gomes! 👋
+# Olá, eu sou Vinícius Dias Gomes!
 
 Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de aprender e criar soluções que fazem a diferença. Meus principais interesses estão em **desenvolvimento web**, **aplicações móveis** e **inteligência artificial**.  
 
